@@ -1,0 +1,1 @@
+lastButOne xs = init xs
