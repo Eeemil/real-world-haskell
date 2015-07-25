@@ -1,1 +1,1 @@
-lastButOne xs = init xs
+lastButOne xs = last (init xs)
